@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='dlt2json',
-    version='0.0.1',
+    version='0.0.3',
     author='Riadh Abidi',
     author_email='riadh.abidi@outlook.com',
     description='convert a dlt file to json',

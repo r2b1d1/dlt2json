@@ -65,7 +65,7 @@ $ python setup.py install
 
 ## Usage
 
-For a quick test, download [testfile] and run
+For a quick test, download [testfile.dlt] and run
 
 ```sh
 $ dlt2json testfile.dlt
